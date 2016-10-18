@@ -5,5 +5,6 @@ public class SensorList {
 		System.out.println("Sensor list");
 		System.out.println("Sensor1");
 		System.out.println("Sensor2");
+		System.out.println("Sensor3");
 	}
 }
